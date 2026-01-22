@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm Johannes
 
-<!--
-**jbottesch/jbottesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with a strong backend focus and solid frontend experience.
+I build clean, reliable web applications – from structured APIs to user-friendly interfaces.
 
-Here are some ideas to get you started:
+🧠 Focus: 
+clean architecture • maintainable code • well-designed APIs • system thinking • ownership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Stack:
+Backend: Python (FastAPI) · REST APIs · API design · validation & error handling · SQL (MySQL, SQL Server)
+Frontend: React · JavaScript · HTML/CSS · MUI · component-based UI · usability & performance
+Tools: Git · Jira · Postman · Agile/Scrum · Remote collaboration
+
+🚀 What you'll find here:
+- Practice-oriented projects with clear structure and readable code
+- Documented decisions, clean commit history and realistic use cases
+- Examples of API development, data handling and frontend-backend integration
+
+🎯 Looking for:
+100% remote fullstack or backend-focused roles in teams that value quality, ownership and sustainable solutions.
+
+🤝 Curious?
+Feel free to explore the repositories or reach out to discuss my work.
