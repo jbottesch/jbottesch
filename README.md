@@ -17,7 +17,7 @@ Tools: Git · Jira · Postman · Agile/Scrum · Remote collaboration
 - Examples of API development, data handling and frontend-backend integration
 
 🎯 Looking for:
-100% remote fullstack or backend-focused roles in teams that value quality, ownership and sustainable solutions.
+remote or hybrid fullstack or backend-focused roles in teams that value quality, ownership and sustainable solutions.
 
 🤝 Curious?
 Feel free to explore the repositories or reach out to discuss my work.
